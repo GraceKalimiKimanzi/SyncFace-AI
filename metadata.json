@@ -1,0 +1,8 @@
+{
+  "name": "SyncFace AI",
+  "description": "Transform static photos into talking character videos. Upload a group photo, an audio clip, and choose who speaks to generate a professional lip-synced video.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
